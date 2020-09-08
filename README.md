@@ -33,7 +33,7 @@ try {
 
 # Leaderbaords
 
- <h2> Example <h2>
+ <h2> Example </h2>
 
  ```js
  try {
@@ -43,7 +43,7 @@ try {
  }
  ```
 
-  <h2> Output <h2>
+  <h2> Output </h2>
 
  ```json
 {
@@ -213,7 +213,7 @@ try {
 
 # MP Match Details
 
-<h2> Example <h2>
+<h2> Example </h2>
 
  ```js
  try {
@@ -223,7 +223,7 @@ try {
  }
  ```
 
-<h2> Output <h2>
+<h2> Output </h2>
   
 ```json
 {
