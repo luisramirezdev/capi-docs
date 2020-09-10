@@ -21,8 +21,8 @@ const API = require('call-of-duty-api')({ platform: "battle" });
 - acti 
 - uno ( numerical identifier )
 
-# Login
-Login is required to remove any restrictions on certain endpoints.
+# Login :id=login
+!> Login is required to remove any restrictions on certain endpoints.
 ```js
 try {
     await API.login(<username>, <password>);
@@ -31,7 +31,7 @@ try {
  }
 ```
 
-# Leaderbaords
+# Leaderboards :id=leaderboards
 
  <h2> Example </h2>
 
@@ -43,9 +43,9 @@ try {
  }
  ```
 
-  <h2> Output </h2>
+<h2> Output </h2>
 
- ```json
+```json
 {
   title: 'mw',
   platform: 'psn',
@@ -211,7 +211,7 @@ try {
 }
  ```
 
-# MP Match Details
+# MP Match Details :id=mp-match-details
 
 <h2> Example </h2>
 
