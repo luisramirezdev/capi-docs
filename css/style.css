@@ -3,7 +3,7 @@
     height: 64px;
 }   
 body > section {
-    background: url(/_media/redblue.png) !important;
+    background: url(/capi-docs/_media/redblue.png) !important;
     animation: hue-rotate-jsx-1949430152 4s ease-in-out infinite !important;
     background-size: cover !important;
     background-position: center center !important;
