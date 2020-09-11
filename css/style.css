@@ -1,13 +1,34 @@
 .app-name-link img {
     width: 64px;
     height: 64px;
-}   
+    border-radius: 4px;
+}
+
 body > section {
     background: url(/capi-docs/_media/redblue.png) !important;
     animation: hue-rotate-jsx-1949430152 4s ease-in-out infinite !important;
     background-size: cover !important;
     background-position: center center !important;
     animation-direction: alternate !important;
+}
+
+.markdown-section pre {
+    border-radius: 4px !important;
+}
+
+.markdown-section pre > code {
+    max-height: 400px !important;
+    overflow: initial !important;
+}
+
+.markdown-section pre::-webkit-scrollbar {
+    position: relative;
+    width: 15px;
+    background-color: #2d2d2d;
+}
+
+.markdown-section pre::-webkit-scrollbar-thumb {
+    background-color: #d2d2d2;
 }
 
 footer > div  {
