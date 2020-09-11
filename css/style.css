@@ -1,0 +1,47 @@
+.app-name-link img {
+    width: 64px;
+    height: 64px;
+}   
+body > section {
+    background: url(/_media/redblue.png) !important;
+    animation: hue-rotate-jsx-1949430152 4s ease-in-out infinite !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    animation-direction: alternate !important;
+}
+
+@-webkit-keyframes hue-rotate-jsx-1949430152 {
+    from {
+        -webkit-filter: hue-rotate(-30deg);
+        -moz-filter: hue-rotate(-30deg);
+        -ms-filter: hue-rotate(-30deg);
+        -webkit-filter: hue-rotate(-30deg);
+        filter: hue-rotate(-30deg);
+    }
+    
+    to {
+        -webkit-filter: hue-rotate(30deg);
+        -moz-filter: hue-rotate(30deg);
+        -ms-filter: hue-rotate(30deg);
+        -webkit-filter: hue-rotate(30deg);
+        filter: hue-rotate(30deg);
+    }
+}
+
+@keyframes hue-rotate-jsx-1949430152 {
+    from {
+        -webkit-filter: hue-rotate(-30deg);
+        -moz-filter: hue-rotate(-30deg);
+        -ms-filter: hue-rotate(-30deg);
+        -webkit-filter: hue-rotate(-30deg);
+        filter: hue-rotate(-30deg);
+    }
+    
+    to {
+        -webkit-filter: hue-rotate(30deg);
+        -moz-filter: hue-rotate(30deg);
+        -ms-filter: hue-rotate(30deg);
+        -webkit-filter: hue-rotate(30deg);
+        filter: hue-rotate(30deg);
+    }
+}
