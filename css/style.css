@@ -10,6 +10,14 @@ body > section {
     animation-direction: alternate !important;
 }
 
+footer > div  {
+    display: inline-block;
+}
+
+footer > div > span {
+    color: #e63b6edc !important;
+}
+
 @-webkit-keyframes hue-rotate-jsx-1949430152 {
     from {
         -webkit-filter: hue-rotate(-30deg);
