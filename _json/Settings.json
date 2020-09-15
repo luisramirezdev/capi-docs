@@ -1,0 +1,30 @@
+{
+  "battle": {
+    "signon_visible": "friends",
+    "searchable": "all",
+    "data_visible": "all"
+  },
+  "uno": {
+    "push_gift_activity": "all",
+    "push_intel_activity": "all",
+    "push_cod_updates": "all",
+    "push_intel_updates": "all",
+    "push_cod_events": "all",
+    "push_cwl_updates": "all",
+    "push_fav_signon": "all",
+    "push_fav_activity": "all",
+    "push_ops_updates": "all",
+    "push_ops_activity": "all",
+    "push_cod_news": "all"
+  },
+  "psn": {
+    "signon_visible": "friends",
+    "searchable": "all",
+    "data_visible": "all"
+  },
+  "steam": {
+    "signon_visible": "friends",
+    "data_visible": "all",
+    "searchable": "all"
+  }
+}

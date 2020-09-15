@@ -1,0 +1,130 @@
+{
+  "status": null,
+  "exceptionMessageList": [],
+  "errors": {},
+  "exceptionMessageCode": null,
+  "userInfo": {
+    "userName": "Lierrmm#2364",
+    "friendCount": 0,
+    "notificationCount": 0,
+    "isAuthenticated": true,
+    "profilImageUrl": null,
+    "phoneNumber": "",
+    "countryCode": "#####",
+    "postalCode": "#####",
+    "isElite": null,
+    "isGraceLogin": false,
+    "graceLoginCount": 0,
+    "userNameEmpty": false,
+    "jiveUserName": "#####"
+  },
+  "identities": [
+    {
+      "provider": "battle",
+      "username": "Lierrmm#2364",
+      "tokens": null,
+      "authorized": true,
+      "created": "2019-10-22T17:34:35Z",
+      "updated": "2019-10-22T17:48:38Z",
+      "accountID": "#####",
+      "secondaryAccountID": null
+    },
+    {
+      "provider": "facebook",
+      "username": null,
+      "tokens": null,
+      "authorized": true,
+      "created": "2015-04-11T12:02:20Z",
+      "updated": "2017-08-22T17:45:04Z",
+      "accountID": "#####",
+      "secondaryAccountID": null
+    },
+    {
+      "provider": "psn",
+      "username": "Lierrmm",
+      "tokens": null,
+      "authorized": true,
+      "created": "2018-08-31T11:11:51Z",
+      "updated": "2020-08-29T05:21:03Z",
+      "accountID": "#####",
+      "secondaryAccountID": "#####"
+    },
+    {
+      "provider": "steam",
+      "username": "Liam",
+      "tokens": null,
+      "authorized": true,
+      "created": "2019-10-22T20:33:35Z",
+      "updated": "2020-09-03T18:15:46Z",
+      "accountID": "#####",
+      "secondaryAccountID": null
+    },
+    {
+      "provider": "twitch",
+      "username": "liermm",
+      "tokens": null,
+      "authorized": true,
+      "created": "2020-02-12T19:27:37Z",
+      "updated": "2020-02-12T19:27:37Z",
+      "accountID": "#####",
+      "secondaryAccountID": null
+    },
+    {
+      "provider": "twitter",
+      "username": "Lierrmm",
+      "tokens": null,
+      "authorized": true,
+      "created": "2014-12-19T13:39:26Z",
+      "updated": "2017-08-22T17:43:05Z",
+      "accountID": "#####",
+      "secondaryAccountID": null
+    },
+    {
+      "provider": "uno",
+      "username": "Lierrmm",
+      "tokens": null,
+      "authorized": true,
+      "created": "2016-11-04T00:33:43Z",
+      "updated": "2020-05-10T15:29:42Z",
+      "accountID": "#####",
+      "secondaryAccountID": null
+    },
+    {
+      "provider": "youtube",
+      "username": "UCN-_1dW08RxfMv0mTm0aojg",
+      "tokens": null,
+      "authorized": true,
+      "created": "2014-08-21T02:12:31Z",
+      "updated": "2017-08-22T17:48:12Z",
+      "accountID": "#####",
+      "secondaryAccountID": null
+    }
+  ],
+  "sessionID": null,
+  "accountPercentageCompletion": 90,
+  "facebookLinked": true,
+  "twitterLinked": true,
+  "youtubeLinked": true,
+  "twitchLinked": true,
+  "amazonLinked": false,
+  "emailValidated": true,
+  "gamerAccountLinked": true,
+  "codPreferences": {
+    "in_game_events_sms": false,
+    "gameplay_help_and_tips_sms": false,
+    "news_and_community_updates": false,
+    "esports_sms": false,
+    "sales_and_promotions": false,
+    "news_and_community_updates_sms": false,
+    "gameplay_help_and_tips": false,
+    "in_game_events": true,
+    "sales_and_promotions_sms": false,
+    "esports": false
+  },
+  "playerSupportPreferences": {
+    "service_and_support": false,
+    "service_and_support_sms": false,
+    "my_support": false,
+    "my_support_sms": false
+  }
+}

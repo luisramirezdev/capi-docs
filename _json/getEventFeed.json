@@ -1,0 +1,2555 @@
+{
+  "events": [
+    {
+      "username": "Twitch LouisLD_#5871618",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1600109026698,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">Twitch LouisLD_</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "LargeTortoise48#5544637",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1600080564821,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">LargeTortoise48</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "Padceee",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1600028792454,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">Padceee</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "urunclesbasement#7376436",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1600024906267,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "arena",
+        "stats": {
+          "kdr": 3.6666667
+        },
+        "map": "mp_m_showers",
+        "matchId": "899410098227220705",
+        "platform": "xbl"
+      },
+      "rendered": "<span class=\"username\">urunclesbasement</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">3.67 K/D ratio</span></span> in <span class=\"game-mode\">Gunfight</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "urunclesbasement#7376436",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1600023881838,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">urunclesbasement</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "urunclesbasement#7376436",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1600022686657,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "arena",
+        "stats": {
+          "kdr": 3.3333333
+        },
+        "map": "mp_m_speedball",
+        "matchId": "10502755688141908466",
+        "platform": "xbl"
+      },
+      "rendered": "<span class=\"username\">urunclesbasement</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">3.33 K/D ratio</span></span> in <span class=\"game-mode\">Gunfight</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1600018978026,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "sd_hc",
+        "stats": {
+          "kdr": 2.142857
+        },
+        "map": "mp_m_speed",
+        "matchId": "11716202157261494508",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.14 K/D ratio</span></span> in <span class=\"game-mode\">Search and Destroy Hardcore</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1600014722851,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "SwankyKoala#8030852",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1600002885759,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">SwankyKoala</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "Leafized#4613207",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599975322477,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">Leafized</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "Smiling#8167387",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599943683961,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">Smiling</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599920293692,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "headshots": 8
+        },
+        "map": "mp_m_speed",
+        "matchId": "14895058481444299024",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"headshots-value\">8 headshots</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599919563035,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dom",
+        "stats": {
+          "kills": 80,
+          "headshots": 8,
+          "assists": 13,
+          "kdr": 2.9629629,
+          "defends": 44,
+          "accuracy": 0.64220184
+        },
+        "map": "mp_shipment",
+        "matchId": "11860883413449141877",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.96 K/D ratio</span>, <span class=\"kills-value\">80 kills</span>, <span class=\"defends-value\">44 defends</span>, <span class=\"headshots-value\">8 headshots</span>, <span class=\"assists-value\">13 assists</span>, and <span class=\"accuracy-value\">64.2% accuracy</span></span> in <span class=\"game-mode\">Domination</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599918952999,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 34,
+          "kdr": 2.8333333
+        },
+        "map": "mp_m_speed",
+        "matchId": "3241147251698285879",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.83 K/D ratio</span> and <span class=\"kills-value\">34 kills</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599918499118,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "kills": 30,
+          "headshots": 5,
+          "kdr": 2
+        },
+        "map": "mp_m_speed",
+        "matchId": "14085551658915888461",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.00 K/D ratio</span>, <span class=\"kills-value\">30 kills</span>, and <span class=\"headshots-value\">5 headshots</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599917918676,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "hq",
+        "stats": {
+          "kills": 59,
+          "headshots": 17
+        },
+        "map": "mp_m_speed",
+        "matchId": "3487871337635723158",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">59 kills</span> and <span class=\"headshots-value\">17 headshots</span></span> in <span class=\"game-mode\">Headquarters</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599916975829,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "kills": 25,
+          "headshots": 8,
+          "assists": 12
+        },
+        "map": "mp_shipment",
+        "matchId": "6565036847013313313",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">25 kills</span>, <span class=\"headshots-value\">8 headshots</span>, and <span class=\"assists-value\">12 assists</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "Conneerrr#9082479",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599857018720,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 31,
+          "captures": 18,
+          "assists": 13
+        },
+        "map": "mp_hackney_am",
+        "matchId": "7324174977117988227",
+        "platform": "psn"
+      },
+      "rendered": "<span class=\"username\">Conneerrr</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">31 kills</span>, <span class=\"captures-value\">18 captures</span>, and <span class=\"assists-value\">13 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "Conneerrr#9082479",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599854475628,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">Conneerrr</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "urunclesbasement#7376436",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599837531792,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dm",
+        "stats": {
+          "kills": 20
+        },
+        "map": "mp_m_fork",
+        "matchId": "13779606118435775760",
+        "platform": "xbl"
+      },
+      "rendered": "<span class=\"username\">urunclesbasement</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">20 kills</span></span> in <span class=\"game-mode\">Free-for-all</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599823728570,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "arm",
+        "stats": {
+          "kills": 71,
+          "headshots": 11,
+          "kdr": 3.3809524
+        },
+        "map": "mp_farms2_gw",
+        "matchId": "1843247719823981215",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">3.38 K/D ratio</span>, <span class=\"kills-value\">71 kills</span>, and <span class=\"headshots-value\">11 headshots</span></span> in <span class=\"game-mode\">Ground War</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599822677637,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "arm",
+        "stats": {
+          "kills": 40,
+          "headshots": 8
+        },
+        "map": "mp_promenade_gw",
+        "matchId": "10861353703721084067",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">40 kills</span> and <span class=\"headshots-value\">8 headshots</span></span> in <span class=\"game-mode\">Ground War</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599821687036,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "arm",
+        "stats": {
+          "kills": 52,
+          "headshots": 15,
+          "kdr": 3.7142856
+        },
+        "map": "mp_promenade_gw",
+        "matchId": "4768528127782479213",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">3.71 K/D ratio</span>, <span class=\"kills-value\">52 kills</span>, and <span class=\"headshots-value\">15 headshots</span></span> in <span class=\"game-mode\">Ground War</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599816744544,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "headshots": 6,
+          "assists": 14
+        },
+        "map": "mp_shipment",
+        "matchId": "12151834366142125174",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"headshots-value\">6 headshots</span> and <span class=\"assists-value\">14 assists</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599816265803,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 45,
+          "headshots": 7,
+          "captures": 7
+        },
+        "map": "mp_m_speed",
+        "matchId": "12098562676496067621",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">45 kills</span>, <span class=\"captures-value\">7 captures</span>, and <span class=\"headshots-value\">7 headshots</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599815582744,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 20,
+          "headshots": 7
+        },
+        "map": "mp_shipment",
+        "matchId": "7812153366970641018",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">20 kills</span> and <span class=\"headshots-value\">7 headshots</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599815296614,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 48,
+          "headshots": 5,
+          "assists": 19
+        },
+        "map": "mp_shipment",
+        "matchId": "11360453906489894044",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">48 kills</span>, <span class=\"headshots-value\">5 headshots</span>, and <span class=\"assists-value\">19 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599811910136,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 28
+        },
+        "map": "mp_m_speed",
+        "matchId": "4243225760425613345",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">28 kills</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599811145630,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "tdef",
+        "stats": {
+          "kills": 51,
+          "headshots": 6,
+          "assists": 12,
+          "kdr": 2.6842105
+        },
+        "map": "mp_shipment",
+        "matchId": "481968409280597611",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.68 K/D ratio</span>, <span class=\"kills-value\">51 kills</span>, <span class=\"headshots-value\">6 headshots</span>, and <span class=\"assists-value\">12 assists</span></span> in <span class=\"game-mode\">Team Defender</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599810627589,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dom",
+        "stats": {
+          "kills": 48,
+          "headshots": 9,
+          "kdr": 3.2,
+          "defends": 12
+        },
+        "map": "mp_m_speed",
+        "matchId": "1898957513314748990",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">3.20 K/D ratio</span>, <span class=\"kills-value\">48 kills</span>, <span class=\"defends-value\">12 defends</span>, and <span class=\"headshots-value\">9 headshots</span></span> in <span class=\"game-mode\">Domination</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599808158220,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 72,
+          "headshots": 9,
+          "captures": 8,
+          "assists": 26,
+          "kdr": 2.5714285
+        },
+        "map": "mp_shipment",
+        "matchId": "7977568892928128269",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.57 K/D ratio</span>, <span class=\"kills-value\">72 kills</span>, <span class=\"captures-value\">8 captures</span>, <span class=\"headshots-value\">9 headshots</span>, and <span class=\"assists-value\">26 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599806922074,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "headshots": 8
+        },
+        "map": "mp_m_speed",
+        "matchId": "543793155655601588",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"headshots-value\">8 headshots</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "MBP#5897796",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599758111166,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 25,
+          "headshots": 6,
+          "captures": 12
+        },
+        "map": "mp_spear",
+        "matchId": "3484407193694438385",
+        "platform": "psn"
+      },
+      "rendered": "<span class=\"username\">MBP</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">25 kills</span>, <span class=\"captures-value\">12 captures</span>, and <span class=\"headshots-value\">6 headshots</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "MBP#5897796",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599757376696,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 27,
+          "captures": 8
+        },
+        "map": "mp_runner",
+        "matchId": "10242773000909304247",
+        "platform": "psn"
+      },
+      "rendered": "<span class=\"username\">MBP</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">27 kills</span> and <span class=\"captures-value\">8 captures</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "MBP#5897796",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599755571139,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">MBP</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599731337890,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 41,
+          "headshots": 7,
+          "kdr": 2.7333333
+        },
+        "map": "mp_m_speed",
+        "matchId": "2910229881218118280",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.73 K/D ratio</span>, <span class=\"kills-value\">41 kills</span>, and <span class=\"headshots-value\">7 headshots</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599667731069,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "headshots": 5
+        },
+        "map": "mp_m_speed",
+        "matchId": "2227356415285825458",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"headshots-value\">5 headshots</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "SilverNest36809#7397012",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599591647801,
+      "category": "session_start",
+      "meta": {},
+      "rendered": "<span class=\"username\">SilverNest36809</span> started playing",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599558207887,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dom",
+        "stats": {
+          "kills": 55,
+          "captures": 9,
+          "assists": 25,
+          "defends": 18
+        },
+        "map": "mp_shipment",
+        "matchId": "5846152064238239959",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">55 kills</span>, <span class=\"defends-value\">18 defends</span>, <span class=\"captures-value\">9 captures</span>, and <span class=\"assists-value\">25 assists</span></span> in <span class=\"game-mode\">Domination</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599557486609,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "kills": 22,
+          "headshots": 5,
+          "kdr": 2.75
+        },
+        "map": "mp_m_speed",
+        "matchId": "14474159046241697476",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.75 K/D ratio</span>, <span class=\"kills-value\">22 kills</span>, and <span class=\"headshots-value\">5 headshots</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599540371867,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 57,
+          "assists": 11,
+          "kdr": 2.1111112,
+          "accuracy": 0.5648148
+        },
+        "map": "mp_shipment",
+        "matchId": "5588609077326997067",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.11 K/D ratio</span>, <span class=\"kills-value\">57 kills</span>, <span class=\"assists-value\">11 assists</span>, and <span class=\"accuracy-value\">56.5% accuracy</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599539881289,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "hq",
+        "stats": {
+          "kills": 39,
+          "assists": 11,
+          "kdr": 2.0526316
+        },
+        "map": "mp_m_speed",
+        "matchId": "15979637668743476871",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.05 K/D ratio</span>, <span class=\"kills-value\">39 kills</span>, and <span class=\"assists-value\">11 assists</span></span> in <span class=\"game-mode\">Headquarters</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599539058713,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "kills": 40,
+          "headshots": 5,
+          "kdr": 2
+        },
+        "map": "mp_shipment",
+        "matchId": "10828201630076840105",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.00 K/D ratio</span>, <span class=\"kills-value\">40 kills</span>, and <span class=\"headshots-value\">5 headshots</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599538585886,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 55,
+          "headshots": 10,
+          "captures": 8,
+          "assists": 10,
+          "kdr": 4.230769
+        },
+        "map": "mp_m_speed",
+        "matchId": "13333213053614325284",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">4.23 K/D ratio</span>, <span class=\"kills-value\">55 kills</span>, <span class=\"captures-value\">8 captures</span>, <span class=\"headshots-value\">10 headshots</span>, and <span class=\"assists-value\">10 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599537161677,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dom",
+        "stats": {
+          "kills": 43,
+          "headshots": 6,
+          "kdr": 2.8666666
+        },
+        "map": "mp_m_speed",
+        "matchId": "12582540472757688983",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.87 K/D ratio</span>, <span class=\"kills-value\">43 kills</span>, and <span class=\"headshots-value\">6 headshots</span></span> in <span class=\"game-mode\">Domination</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599536476699,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 43,
+          "headshots": 8,
+          "kdr": 2.15,
+          "accuracy": 0.856
+        },
+        "map": "mp_shipment",
+        "matchId": "11045297720791059526",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.15 K/D ratio</span>, <span class=\"kills-value\">43 kills</span>, <span class=\"headshots-value\">8 headshots</span>, and <span class=\"accuracy-value\">85.6% accuracy</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599536108030,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 38,
+          "accuracy": 0.6
+        },
+        "map": "mp_m_speed",
+        "matchId": "17392154290988641218",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">38 kills</span> and <span class=\"accuracy-value\">60.0% accuracy</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599535394525,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 84,
+          "headshots": 7,
+          "captures": 22,
+          "assists": 13,
+          "kdr": 2.8
+        },
+        "map": "mp_m_speed",
+        "matchId": "18327471318343058266",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.80 K/D ratio</span>, <span class=\"kills-value\">84 kills</span>, <span class=\"captures-value\">22 captures</span>, <span class=\"headshots-value\">7 headshots</span>, and <span class=\"assists-value\">13 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599534464115,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "hq",
+        "stats": {
+          "kills": 49,
+          "headshots": 5,
+          "kdr": 2.3333333
+        },
+        "map": "mp_m_speed",
+        "matchId": "10958624318733947998",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.33 K/D ratio</span>, <span class=\"kills-value\">49 kills</span>, and <span class=\"headshots-value\">5 headshots</span></span> in <span class=\"game-mode\">Headquarters</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599533546445,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dom",
+        "stats": {
+          "kills": 39,
+          "defends": 8
+        },
+        "map": "mp_m_speed",
+        "matchId": "1152596191052941259",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">39 kills</span> and <span class=\"defends-value\">8 defends</span></span> in <span class=\"game-mode\">Domination</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599525390646,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 83,
+          "headshots": 15,
+          "captures": 12,
+          "assists": 25,
+          "kdr": 2.128205
+        },
+        "map": "mp_shipment",
+        "matchId": "3860716911048081183",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.13 K/D ratio</span>, <span class=\"kills-value\">83 kills</span>, <span class=\"captures-value\">12 captures</span>, <span class=\"headshots-value\">15 headshots</span>, and <span class=\"assists-value\">25 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599524640013,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "kills": 33,
+          "headshots": 5
+        },
+        "map": "mp_shipment",
+        "matchId": "1289125190288051916",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">33 kills</span> and <span class=\"headshots-value\">5 headshots</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599524179848,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "kills": 26,
+          "headshots": 9
+        },
+        "map": "mp_m_speed",
+        "matchId": "12776271733684624910",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">26 kills</span> and <span class=\"headshots-value\">9 headshots</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599523418992,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "tdef",
+        "stats": {
+          "kills": 44,
+          "headshots": 7,
+          "kdr": 2.9333334
+        },
+        "map": "mp_shipment",
+        "matchId": "3636115821062058611",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.93 K/D ratio</span>, <span class=\"kills-value\">44 kills</span>, and <span class=\"headshots-value\">7 headshots</span></span> in <span class=\"game-mode\">Team Defender</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599522122291,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dom",
+        "stats": {
+          "headshots": 9,
+          "captures": 6,
+          "defends": 13
+        },
+        "map": "mp_m_speed",
+        "matchId": "1094487715751718573",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"defends-value\">13 defends</span>, <span class=\"captures-value\">6 captures</span>, and <span class=\"headshots-value\">9 headshots</span></span> in <span class=\"game-mode\">Domination</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599521239900,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 27,
+          "headshots": 5,
+          "kdr": 2.25
+        },
+        "map": "mp_shipment",
+        "matchId": "4500860954245371509",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.25 K/D ratio</span>, <span class=\"kills-value\">27 kills</span>, and <span class=\"headshots-value\">5 headshots</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599520662243,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dom",
+        "stats": {
+          "defends": 15
+        },
+        "map": "mp_m_speed",
+        "matchId": "18269979011687734483",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"defends-value\">15 defends</span></span> in <span class=\"game-mode\">Domination</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599519830097,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "kills": 34,
+          "headshots": 6,
+          "assists": 12
+        },
+        "map": "mp_shipment",
+        "matchId": "9059680839713695116",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">34 kills</span>, <span class=\"headshots-value\">6 headshots</span>, and <span class=\"assists-value\">12 assists</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599519304779,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "hq",
+        "stats": {
+          "headshots": 7,
+          "assists": 13
+        },
+        "map": "mp_m_speed",
+        "matchId": "15252432056148888032",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"headshots-value\">7 headshots</span> and <span class=\"assists-value\">13 assists</span></span> in <span class=\"game-mode\">Headquarters</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599518123615,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dom",
+        "stats": {
+          "kills": 61,
+          "headshots": 7,
+          "assists": 30,
+          "defends": 22
+        },
+        "map": "mp_shipment",
+        "matchId": "6163227564730249028",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">61 kills</span>, <span class=\"defends-value\">22 defends</span>, <span class=\"headshots-value\">7 headshots</span>, and <span class=\"assists-value\">30 assists</span></span> in <span class=\"game-mode\">Domination</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599517458510,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "captures": 16,
+          "accuracy": 0.5631579
+        },
+        "map": "mp_shipment",
+        "matchId": "10190933673071141556",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"captures-value\">16 captures</span> and <span class=\"accuracy-value\">56.3% accuracy</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599438917887,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 68,
+          "headshots": 8,
+          "captures": 6,
+          "kdr": 2,
+          "accuracy": 0.7202797
+        },
+        "map": "mp_shipment",
+        "matchId": "7223748594553415492",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.00 K/D ratio</span>, <span class=\"kills-value\">68 kills</span>, <span class=\"captures-value\">6 captures</span>, <span class=\"headshots-value\">8 headshots</span>, and <span class=\"accuracy-value\">72.0% accuracy</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599438300612,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "hq",
+        "stats": {
+          "headshots": 7
+        },
+        "map": "mp_m_speed",
+        "matchId": "12453999691633697181",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"headshots-value\">7 headshots</span></span> in <span class=\"game-mode\">Headquarters</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599437541046,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "hq",
+        "stats": {
+          "kills": 47,
+          "headshots": 11,
+          "kdr": 3.9166667
+        },
+        "map": "mp_m_speed",
+        "matchId": "1033514559029630267",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">3.92 K/D ratio</span>, <span class=\"kills-value\">47 kills</span>, and <span class=\"headshots-value\">11 headshots</span></span> in <span class=\"game-mode\">Headquarters</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599436602695,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "captures": 8,
+          "assists": 10
+        },
+        "map": "mp_m_speed",
+        "matchId": "9523867817817095666",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"captures-value\">8 captures</span> and <span class=\"assists-value\">10 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599435785106,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "hq",
+        "stats": {
+          "kills": 56,
+          "headshots": 10,
+          "captures": 6,
+          "assists": 15
+        },
+        "map": "mp_m_speed",
+        "matchId": "6057496205409112882",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">56 kills</span>, <span class=\"captures-value\">6 captures</span>, <span class=\"headshots-value\">10 headshots</span>, and <span class=\"assists-value\">15 assists</span></span> in <span class=\"game-mode\">Headquarters</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599434731913,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 24
+        },
+        "map": "mp_shipment",
+        "matchId": "15247317865887622375",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">24 kills</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "urunclesbasement#7376436",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599426247993,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "arena",
+        "stats": {
+          "kdr": 3.6666667
+        },
+        "map": "mp_m_stack",
+        "matchId": "847581102651873530",
+        "platform": "xbl"
+      },
+      "rendered": "<span class=\"username\">urunclesbasement</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">3.67 K/D ratio</span></span> in <span class=\"game-mode\">Gunfight</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "MBP#5897796",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599326848688,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "headshots": 6,
+          "captures": 6
+        },
+        "map": "mp_spear",
+        "matchId": "10443166939328935872",
+        "platform": "psn"
+      },
+      "rendered": "<span class=\"username\">MBP</span> got <span class=\"mp-stat-items\"><span class=\"captures-value\">6 captures</span> and <span class=\"headshots-value\">6 headshots</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "MBP#5897796",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599325775207,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 39,
+          "headshots": 7,
+          "assists": 12
+        },
+        "map": "mp_runner",
+        "matchId": "11954953116425347203",
+        "platform": "psn"
+      },
+      "rendered": "<span class=\"username\">MBP</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">39 kills</span>, <span class=\"headshots-value\">7 headshots</span>, and <span class=\"assists-value\">12 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599307975682,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "sd",
+        "stats": {
+          "kills": 20,
+          "kdr": 2.857143,
+          "accuracy": 0.65
+        },
+        "map": "mp_petrograd",
+        "matchId": "7107303399393821536",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.86 K/D ratio</span>, <span class=\"kills-value\">20 kills</span>, and <span class=\"accuracy-value\">65.0% accuracy</span></span> in <span class=\"game-mode\">Search and Destroy</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599306619891,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "sd",
+        "stats": {
+          "headshots": 5
+        },
+        "map": "mp_deadzone",
+        "matchId": "10011149943396475796",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"headshots-value\">5 headshots</span></span> in <span class=\"game-mode\">Search and Destroy</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599284200884,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 28,
+          "kdr": 5.6
+        },
+        "map": "mp_shipment",
+        "matchId": "9106030283469728207",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">5.60 K/D ratio</span> and <span class=\"kills-value\">28 kills</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599283900710,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "headshots": 10,
+          "captures": 12,
+          "assists": 17
+        },
+        "map": "mp_m_speed",
+        "matchId": "15652242291523939291",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"captures-value\">12 captures</span>, <span class=\"headshots-value\">10 headshots</span>, and <span class=\"assists-value\">17 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599283073976,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 45,
+          "captures": 8,
+          "assists": 26
+        },
+        "map": "mp_shipment",
+        "matchId": "2695484603375065552",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">45 kills</span>, <span class=\"captures-value\">8 captures</span>, and <span class=\"assists-value\">26 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599274621909,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "kills": 27,
+          "headshots": 8
+        },
+        "map": "mp_m_speed",
+        "matchId": "2946773158258992983",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">27 kills</span> and <span class=\"headshots-value\">8 headshots</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599273835809,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 39,
+          "headshots": 11,
+          "assists": 29
+        },
+        "map": "mp_shipment",
+        "matchId": "1417004328321974249",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">39 kills</span>, <span class=\"headshots-value\">11 headshots</span>, and <span class=\"assists-value\">29 assists</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599273342735,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "headshots": 8
+        },
+        "map": "mp_m_speed",
+        "matchId": "16843458952731908089",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"headshots-value\">8 headshots</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599272590767,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "headshots": 12,
+          "captures": 10,
+          "assists": 10
+        },
+        "map": "mp_m_speed",
+        "matchId": "2134639099720126426",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"captures-value\">10 captures</span>, <span class=\"headshots-value\">12 headshots</span>, and <span class=\"assists-value\">10 assists</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599271829250,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "assists": 21
+        },
+        "map": "mp_shipment",
+        "matchId": "1935665867190933337",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"assists-value\">21 assists</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599271385768,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "hq",
+        "stats": {
+          "kills": 40,
+          "headshots": 6
+        },
+        "map": "mp_m_speed",
+        "matchId": "16766337032126828255",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">40 kills</span> and <span class=\"headshots-value\">6 headshots</span></span> in <span class=\"game-mode\">Headquarters</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599267373683,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 26,
+          "accuracy": 0.85057473
+        },
+        "map": "mp_m_speed",
+        "matchId": "11828440715709056455",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">26 kills</span> and <span class=\"accuracy-value\">85.1% accuracy</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599266867673,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "kills": 53,
+          "headshots": 6,
+          "kdr": 2.12,
+          "accuracy": 0.9457364
+        },
+        "map": "mp_shipment",
+        "matchId": "7103579577080480572",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.12 K/D ratio</span>, <span class=\"kills-value\">53 kills</span>, <span class=\"headshots-value\">6 headshots</span>, and <span class=\"accuracy-value\">94.6% accuracy</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599266423921,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "tdef",
+        "stats": {
+          "kills": 38,
+          "accuracy": 1.0106384
+        },
+        "map": "mp_shipment",
+        "matchId": "3902919894189275658",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">38 kills</span> and <span class=\"accuracy-value\">101.1% accuracy</span></span> in <span class=\"game-mode\">Team Defender</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599265680594,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dom",
+        "stats": {
+          "kills": 53,
+          "headshots": 9,
+          "kdr": 5.888889,
+          "defends": 17,
+          "accuracy": 0.83146065
+        },
+        "map": "mp_m_speed",
+        "matchId": "1022306797407967072",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">5.89 K/D ratio</span>, <span class=\"kills-value\">53 kills</span>, <span class=\"defends-value\">17 defends</span>, <span class=\"headshots-value\">9 headshots</span>, and <span class=\"accuracy-value\">83.1% accuracy</span></span> in <span class=\"game-mode\">Domination</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599265089029,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 48,
+          "headshots": 5,
+          "kdr": 2.2857144,
+          "accuracy": 1.0446428
+        },
+        "map": "mp_shipment",
+        "matchId": "15979209474178059727",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.29 K/D ratio</span>, <span class=\"kills-value\">48 kills</span>, <span class=\"headshots-value\">5 headshots</span>, and <span class=\"accuracy-value\">104.5% accuracy</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599264708899,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "hq",
+        "stats": {
+          "kills": 54,
+          "assists": 11,
+          "kdr": 2.0769231,
+          "accuracy": 0.86538464
+        },
+        "map": "mp_m_speed",
+        "matchId": "7366735722251151964",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">2.08 K/D ratio</span>, <span class=\"kills-value\">54 kills</span>, <span class=\"assists-value\">11 assists</span>, and <span class=\"accuracy-value\">86.5% accuracy</span></span> in <span class=\"game-mode\">Headquarters</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599263877370,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "kills": 39,
+          "headshots": 5,
+          "kdr": 4.875
+        },
+        "map": "mp_m_speed",
+        "matchId": "6048143674335275019",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\">a <span class=\"kdr-value\">4.88 K/D ratio</span>, <span class=\"kills-value\">39 kills</span>, and <span class=\"headshots-value\">5 headshots</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "MBP#5897796",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599243744218,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "captures": 8
+        },
+        "map": "mp_runner",
+        "matchId": "1346805086840062795",
+        "platform": "psn"
+      },
+      "rendered": "<span class=\"username\">MBP</span> got <span class=\"mp-stat-items\"><span class=\"captures-value\">8 captures</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "MBP#5897796",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599243131290,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "captures": 6
+        },
+        "map": "mp_hackney_am",
+        "matchId": "10700231948550622539",
+        "platform": "psn"
+      },
+      "rendered": "<span class=\"username\">MBP</span> got <span class=\"mp-stat-items\"><span class=\"captures-value\">6 captures</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "MBP#5897796",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599242341824,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 28,
+          "headshots": 6,
+          "captures": 12,
+          "defends": 8
+        },
+        "map": "mp_cave_am",
+        "matchId": "7821941548622258011",
+        "platform": "psn"
+      },
+      "rendered": "<span class=\"username\">MBP</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">28 kills</span>, <span class=\"defends-value\">8 defends</span>, <span class=\"captures-value\">12 captures</span>, and <span class=\"headshots-value\">6 headshots</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "MBP#5897796",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599241427900,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "koth",
+        "stats": {
+          "kills": 22,
+          "headshots": 7
+        },
+        "map": "mp_spear",
+        "matchId": "6055383188653073739",
+        "platform": "psn"
+      },
+      "rendered": "<span class=\"username\">MBP</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">22 kills</span> and <span class=\"headshots-value\">7 headshots</span></span> in <span class=\"game-mode\">Hardpoint</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599167631817,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "dom",
+        "stats": {
+          "kills": 30,
+          "headshots": 7,
+          "defends": 16
+        },
+        "map": "mp_m_speed",
+        "matchId": "5713431960467075968",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">30 kills</span>, <span class=\"defends-value\">16 defends</span>, and <span class=\"headshots-value\">7 headshots</span></span> in <span class=\"game-mode\">Domination</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599167082627,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "war",
+        "stats": {
+          "assists": 11,
+          "accuracy": 0.5988024
+        },
+        "map": "mp_shipment",
+        "matchId": "11661828632336713533",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"assists-value\">11 assists</span> and <span class=\"accuracy-value\">59.9% accuracy</span></span> in <span class=\"game-mode\">Team Deathmatch</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599166632891,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "grind",
+        "stats": {
+          "kills": 40
+        },
+        "map": "mp_m_speed",
+        "matchId": "17606992733426076308",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">40 kills</span></span> in <span class=\"game-mode\">Grind</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "title": "mw",
+      "date": 1599165951321,
+      "category": "mp_stat",
+      "meta": {
+        "mode": "tdef",
+        "stats": {
+          "kills": 24
+        },
+        "map": "mp_shipment",
+        "matchId": "15554248783670665913",
+        "platform": "battle"
+      },
+      "rendered": "<span class=\"username\">YouTubeG3nesisHD</span> got <span class=\"mp-stat-items\"><span class=\"kills-value\">24 kills</span></span> in <span class=\"game-mode\">Team Defender</span>",
+      "topFavorite": false,
+      "favorited": false,
+      "favoriteData": {},
+      "reactions": {
+        "userReaction": null,
+        "counts": {},
+        "updated": 0
+      }
+    }
+  ],
+  "identities": [
+    {
+      "username": "Twitch LouisLD_#5871618",
+      "platform": "uno",
+      "accountId": "7196775051342448042",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1572033579
+    },
+    {
+      "username": "LargeTortoise48#5544637",
+      "platform": "uno",
+      "accountId": "18371410567025742833",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1576702573
+    },
+    {
+      "username": "Padceee",
+      "platform": "uno",
+      "accountId": "17278329247726142573",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1568482712
+    },
+    {
+      "username": "urunclesbasement#7376436",
+      "platform": "uno",
+      "accountId": "1953077207228080442",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1575822575
+    },
+    {
+      "username": "YouTubeG3nesisHD#8104000",
+      "platform": "uno",
+      "accountId": "18400394237773110784",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1576159770
+    },
+    {
+      "username": "SwankyKoala#8030852",
+      "platform": "uno",
+      "accountId": "5963305748852938222",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1597870060
+    },
+    {
+      "username": "Leafized#4613207",
+      "platform": "uno",
+      "accountId": "5061333404717684436",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1588176494
+    },
+    {
+      "username": "Smiling#8167387",
+      "platform": "uno",
+      "accountId": "12523958450760556572",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1575211482
+    },
+    {
+      "username": "Conneerrr#9082479",
+      "platform": "uno",
+      "accountId": "17846590392648873076",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1572548456
+    },
+    {
+      "username": "MBP#5897796",
+      "platform": "uno",
+      "accountId": "8297185697083749311",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1573253802
+    },
+    {
+      "username": "SilverNest36809#7397012",
+      "platform": "uno",
+      "accountId": "992692516633882332",
+      "status": {
+        "online": false
+      },
+      "dateAdded": 1576609329
+    }
+  ],
+  "metadata": {}
+}

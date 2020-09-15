@@ -1,0 +1,74 @@
+{
+  "streams": {
+    "loot_season_3": {
+      "name": "loot_season_3",
+      "categoryNameLabel": "Season 3",
+      "categoryTitleLabel": "Season 3",
+      "tier": 32,
+      "streamType": "season",
+      "rarity": null,
+      "lootType": null,
+      "seasonInfoUrlKey": "season-3",
+      "itemsObtained": null,
+      "premiumTokenOwnedNotRedeemed": false,
+      "tierSkipTokensUnredeemed": null,
+      "premium": false
+    },
+    "loot_season_4": {
+      "name": "loot_season_4",
+      "categoryNameLabel": "Season 4",
+      "categoryTitleLabel": "Season 4",
+      "tier": 0,
+      "streamType": "season",
+      "rarity": null,
+      "lootType": null,
+      "seasonInfoUrlKey": "season-4",
+      "itemsObtained": null,
+      "premiumTokenOwnedNotRedeemed": false,
+      "tierSkipTokensUnredeemed": null,
+      "premium": false
+    },
+    "loot_season_1": {
+      "name": "loot_season_1",
+      "categoryNameLabel": "Season 1",
+      "categoryTitleLabel": "Season 1",
+      "tier": 100,
+      "streamType": "season",
+      "rarity": null,
+      "lootType": null,
+      "seasonInfoUrlKey": "season-1",
+      "itemsObtained": null,
+      "premiumTokenOwnedNotRedeemed": false,
+      "tierSkipTokensUnredeemed": null,
+      "premium": false
+    },
+    "loot_season_2": {
+      "name": "loot_season_2",
+      "categoryNameLabel": "Season 2",
+      "categoryTitleLabel": "Season 2",
+      "tier": 85,
+      "streamType": "season",
+      "rarity": null,
+      "lootType": null,
+      "seasonInfoUrlKey": "season-2",
+      "itemsObtained": null,
+      "premiumTokenOwnedNotRedeemed": false,
+      "tierSkipTokensUnredeemed": null,
+      "premium": false
+    },
+    "loot_season_5": {
+      "name": "loot_season_5",
+      "categoryNameLabel": "Season 5",
+      "categoryTitleLabel": "Season 5",
+      "tier": 0,
+      "streamType": "season",
+      "rarity": null,
+      "lootType": null,
+      "seasonInfoUrlKey": "season-5",
+      "itemsObtained": null,
+      "premiumTokenOwnedNotRedeemed": false,
+      "tierSkipTokensUnredeemed": 0,
+      "premium": false
+    }
+  }
+}

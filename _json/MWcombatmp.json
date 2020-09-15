@@ -1,0 +1,6147 @@
+{
+  "summary": {
+    "all": {
+      "kills": 381,
+      "medalXp": 39205,
+      "matchXp": 46172,
+      "averageSpeedDuringMatch": 3584.6508400000007,
+      "scoreXp": 43805,
+      "accuracy": 0.217664851784634,
+      "losses": 11,
+      "wallBangs": 6,
+      "avgLifeTime": 27.251256281407034,
+      "shotsLanded": 1799,
+      "objectiveMedalModeXAssaultScore": 54,
+      "objectiveMedalModeXDefendScore": 50,
+      "score": 65495,
+      "totalXp": 129182,
+      "objectiveExecution": 1,
+      "headshots": 69,
+      "assists": 112,
+      "objectiveMedalModeHpSecureScore": 58,
+      "rank": 79,
+      "scorePerMinute": 362.3179052185137,
+      "distanceTraveled": 136914.1188,
+      "deaths": 378,
+      "objectiveDestroyedEquipment": 2,
+      "wins": 9,
+      "kdRatio": 1.007936507936508,
+      "shotsMissed": 6466,
+      "scorePerGame": 3274.75,
+      "timePlayed": 10846,
+      "headshotPercentage": 0.18110236220472442,
+      "executions": 1,
+      "matchesPlayed": 20,
+      "suicides": 2,
+      "seasonRank": 100,
+      "objectiveKothInObj": 1154,
+      "wlRatio": 0.8181818181818182,
+      "nearmisses": 3222,
+      "percentTimeMoving": 1813.0017269999996,
+      "miscXp": 0,
+      "objectiveUavAssist": 8,
+      "longestStreak": 5,
+      "damageDone": 48376,
+      "shotsFired": 8265,
+      "damageTaken": 46406
+    },
+    "koth": {
+      "kills": 381,
+      "medalXp": 39205,
+      "matchXp": 46172,
+      "averageSpeedDuringMatch": 3584.6508400000007,
+      "scoreXp": 43805,
+      "accuracy": 0.217664851784634,
+      "wallBangs": 6,
+      "losses": 11,
+      "avgLifeTime": 27.251256281407034,
+      "shotsLanded": 1799,
+      "objectiveMedalModeXAssaultScore": 54,
+      "objectiveMedalModeXDefendScore": 50,
+      "score": 65495,
+      "totalXp": 129182,
+      "objectiveExecution": 1,
+      "headshots": 69,
+      "assists": 112,
+      "objectiveMedalModeHpSecureScore": 58,
+      "rank": 79,
+      "scorePerMinute": 362.3179052185137,
+      "distanceTraveled": 136914.1188,
+      "deaths": 378,
+      "objectiveDestroyedEquipment": 2,
+      "wins": 9,
+      "kdRatio": 1.007936507936508,
+      "shotsMissed": 6466,
+      "scorePerGame": 3274.75,
+      "timePlayed": 10846,
+      "headshotPercentage": 0.18110236220472442,
+      "matchesPlayed": 20,
+      "executions": 1,
+      "suicides": 2,
+      "seasonRank": 100,
+      "objectiveKothInObj": 1154,
+      "wlRatio": 0.8181818181818182,
+      "nearmisses": 3222,
+      "percentTimeMoving": 1813.0017269999996,
+      "miscXp": 0,
+      "objectiveUavAssist": 8,
+      "longestStreak": 5,
+      "damageDone": 48376,
+      "shotsFired": 8265,
+      "damageTaken": 46406
+    }
+  },
+  "matches": [
+    {
+      "utcStartSeconds": 1599758941,
+      "utcEndSeconds": 1599758994,
+      "map": "mp_petrograd",
+      "mode": "koth",
+      "matchID": "1977334398713552014",
+      "duration": 53000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "axis",
+      "gameBattle": false,
+      "team1Score": 0,
+      "team2Score": 38,
+      "isPresentAtEnd": false,
+      "player": {
+        "team": "allies",
+        "rank": 0,
+        "awards": {},
+        "nemesis": "escote99",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 0,
+        "medalXp": 0,
+        "matchXp": 0,
+        "averageSpeedDuringMatch": 0,
+        "scoreXp": 0,
+        "accuracy": 0.2,
+        "wallBangs": 0,
+        "shotsLanded": 2,
+        "score": 0,
+        "totalXp": 0,
+        "headshots": 0,
+        "assists": 0,
+        "rank": 0,
+        "scorePerMinute": 0,
+        "distanceTraveled": 1717.5015,
+        "deaths": 1,
+        "kdRatio": 0,
+        "shotsMissed": 8,
+        "timePlayed": 29,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "nearmisses": 8,
+        "percentTimeMoving": 0,
+        "miscXp": 0,
+        "longestStreak": 0,
+        "damageDone": 50,
+        "shotsFired": 10,
+        "damageTaken": 100
+      },
+      "weaponStats": {
+        "iw8_sm_mpapa5": {
+          "hits": 2,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 10,
+          "startingWeaponXp": 0,
+          "deaths": 1,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599758401,
+      "utcEndSeconds": 1599758804,
+      "map": "mp_hackney_am",
+      "mode": "koth",
+      "matchID": "10218455622749472068",
+      "duration": 403000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "axis",
+      "gameBattle": false,
+      "team1Score": 37,
+      "team2Score": 250,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 0,
+        "awards": {},
+        "nemesis": "AmirG",
+        "mostKilled": "AmirG",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 6,
+        "medalXp": 520,
+        "matchXp": 1222,
+        "averageSpeedDuringMatch": 211.45844,
+        "scoreXp": 800,
+        "accuracy": 0.22393822393822393,
+        "wallBangs": 0,
+        "shotsLanded": 58,
+        "objectiveMedalModeXAssaultScore": 1,
+        "score": 850,
+        "totalXp": 2542,
+        "headshots": 1,
+        "assists": 5,
+        "rank": 0,
+        "scorePerMinute": 144.0677966101695,
+        "distanceTraveled": 5038.0435,
+        "deaths": 19,
+        "kdRatio": 0.3157894736842105,
+        "shotsMissed": 201,
+        "timePlayed": 354,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "nearmisses": 161,
+        "percentTimeMoving": 94.55128,
+        "miscXp": 0,
+        "longestStreak": 2,
+        "damageDone": 1334,
+        "shotsFired": 259,
+        "damageTaken": 2030
+      },
+      "weaponStats": {
+        "iw8_sm_mpapa5": {
+          "hits": 58,
+          "kills": 6,
+          "headshots": 1,
+          "loadoutIndex": 0,
+          "shots": 259,
+          "startingWeaponXp": 0,
+          "deaths": 18,
+          "xpEarned": 0
+        },
+        "iw8_knife": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 1,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599757460,
+      "utcEndSeconds": 1599758022,
+      "map": "mp_spear",
+      "mode": "koth",
+      "matchID": "3484407193694438385",
+      "duration": 562000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "win",
+      "winningTeam": "allies",
+      "gameBattle": false,
+      "team1Score": 250,
+      "team2Score": 160,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 2,
+        "awards": {},
+        "nemesis": "Cinery",
+        "mostKilled": "Jallsy",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 25,
+        "medalXp": 3520,
+        "matchXp": 3138,
+        "averageSpeedDuringMatch": 177.35527,
+        "scoreXp": 2700,
+        "accuracy": 0.26697892271662765,
+        "wallBangs": 1,
+        "shotsLanded": 114,
+        "objectiveMedalModeXAssaultScore": 3,
+        "objectiveMedalModeXDefendScore": 4,
+        "score": 4315,
+        "totalXp": 9358,
+        "headshots": 6,
+        "assists": 4,
+        "objectiveMedalModeHpSecureScore": 6,
+        "rank": 2,
+        "scorePerMinute": 420.9756097560976,
+        "distanceTraveled": 14458.813,
+        "deaths": 17,
+        "kdRatio": 1.4705882352941178,
+        "shotsMissed": 313,
+        "timePlayed": 615,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 69,
+        "nearmisses": 226,
+        "percentTimeMoving": 95.4955,
+        "miscXp": 0,
+        "longestStreak": 5,
+        "damageDone": 3039,
+        "shotsFired": 427,
+        "damageTaken": 2484
+      },
+      "weaponStats": {
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 114,
+          "kills": 24,
+          "headshots": 6,
+          "loadoutIndex": 0,
+          "shots": 427,
+          "startingWeaponXp": 0,
+          "deaths": 17,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599756672,
+      "utcEndSeconds": 1599757287,
+      "map": "mp_runner",
+      "mode": "koth",
+      "matchID": "10242773000909304247",
+      "duration": 615000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "axis",
+      "gameBattle": false,
+      "team1Score": 130,
+      "team2Score": 250,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 2,
+        "awards": {},
+        "nemesis": "GentlemanVinz",
+        "mostKilled": "Musuko_Squartz",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 27,
+        "medalXp": 2110,
+        "matchXp": 2287,
+        "averageSpeedDuringMatch": 215.92003,
+        "scoreXp": 3175,
+        "accuracy": 0.2454728370221328,
+        "wallBangs": 0,
+        "shotsLanded": 122,
+        "objectiveMedalModeXDefendScore": 1,
+        "objectiveMedalModeXAssaultScore": 3,
+        "score": 4105,
+        "totalXp": 7572,
+        "headshots": 4,
+        "assists": 8,
+        "objectiveMedalModeHpSecureScore": 4,
+        "rank": 2,
+        "scorePerMinute": 370.37593984962405,
+        "distanceTraveled": 8528.538,
+        "deaths": 24,
+        "kdRatio": 1.125,
+        "shotsMissed": 375,
+        "timePlayed": 665,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 43,
+        "nearmisses": 267,
+        "percentTimeMoving": 97.86185,
+        "miscXp": 0,
+        "longestStreak": 4,
+        "damageDone": 3266,
+        "shotsFired": 497,
+        "damageTaken": 2822
+      },
+      "weaponStats": {
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 122,
+          "kills": 26,
+          "headshots": 4,
+          "loadoutIndex": 0,
+          "shots": 497,
+          "startingWeaponXp": 0,
+          "deaths": 25,
+          "xpEarned": 0
+        },
+        "none": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599755866,
+      "utcEndSeconds": 1599756541,
+      "map": "mp_petrograd",
+      "mode": "koth",
+      "matchID": "16989114734335021815",
+      "duration": 675000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "axis",
+      "gameBattle": false,
+      "team1Score": 249,
+      "team2Score": 250,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 1,
+        "awards": {},
+        "nemesis": "GentlemanVinz",
+        "mostKilled": "JoeBobkov",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          },
+          {
+            "primaryWeapon": {
+              "name": "iw8_ar_mike4",
+              "label": "M4A1",
+              "imageLoot": "ui_loot_weapon_ar_mike4",
+              "imageIcon": "icon_cac_weapon_ar_mike4",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "fmj",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "reflexmini3",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip03",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "barcust2",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_warhead",
+                "label": "Amped",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_warhead_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 17,
+        "medalXp": 1345,
+        "matchXp": 2452,
+        "averageSpeedDuringMatch": 210.42915,
+        "scoreXp": 2175,
+        "accuracy": 0.22197802197802197,
+        "wallBangs": 1,
+        "shotsLanded": 101,
+        "objectiveMedalModeXDefendScore": 1,
+        "objectiveMedalModeXAssaultScore": 2,
+        "score": 3100,
+        "totalXp": 5972,
+        "headshots": 3,
+        "assists": 8,
+        "objectiveMedalModeHpSecureScore": 2,
+        "rank": 1,
+        "scorePerMinute": 272.32796486090774,
+        "distanceTraveled": 5693.9404,
+        "deaths": 26,
+        "kdRatio": 0.6538461538461539,
+        "shotsMissed": 354,
+        "timePlayed": 683,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 60,
+        "nearmisses": 247,
+        "percentTimeMoving": 96.67195,
+        "miscXp": 0,
+        "longestStreak": 2,
+        "damageDone": 2788,
+        "shotsFired": 455,
+        "damageTaken": 3042
+      },
+      "weaponStats": {
+        "iw8_ar_mike4": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 1,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 1,
+          "xpEarned": 0
+        },
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 101,
+          "kills": 16,
+          "headshots": 3,
+          "loadoutIndex": 0,
+          "shots": 455,
+          "startingWeaponXp": 0,
+          "deaths": 25,
+          "xpEarned": 0
+        },
+        "iw8_knife": {
+          "hits": 0,
+          "kills": 1,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599326191,
+      "utcEndSeconds": 1599326758,
+      "map": "mp_spear",
+      "mode": "koth",
+      "matchID": "10443166939328935872",
+      "duration": 567000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "allies",
+      "gameBattle": false,
+      "team1Score": 250,
+      "team2Score": 147,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "axis",
+        "rank": 1,
+        "awards": {},
+        "nemesis": "Lyxro",
+        "mostKilled": "TheObject",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "clantag": "^31B^7",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 20,
+        "medalXp": 2070,
+        "matchXp": 2111,
+        "averageSpeedDuringMatch": 208.20816,
+        "scoreXp": 2275,
+        "accuracy": 0.21875,
+        "wallBangs": 1,
+        "shotsLanded": 105,
+        "objectiveMedalModeXDefendScore": 3,
+        "objectiveMedalModeXAssaultScore": 5,
+        "score": 3500,
+        "totalXp": 6456,
+        "headshots": 6,
+        "assists": 6,
+        "objectiveMedalModeHpSecureScore": 3,
+        "rank": 1,
+        "scorePerMinute": 347.10743801652893,
+        "distanceTraveled": 14058.4795,
+        "deaths": 24,
+        "kdRatio": 0.8333333333333334,
+        "shotsMissed": 375,
+        "timePlayed": 605,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 55,
+        "nearmisses": 229,
+        "percentTimeMoving": 98.93048,
+        "miscXp": 0,
+        "longestStreak": 3,
+        "damageDone": 2486,
+        "shotsFired": 480,
+        "damageTaken": 2645
+      },
+      "weaponStats": {
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 105,
+          "kills": 18,
+          "headshots": 6,
+          "loadoutIndex": 0,
+          "shots": 480,
+          "startingWeaponXp": 0,
+          "deaths": 24,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599325577,
+      "utcEndSeconds": 1599325977,
+      "map": "mp_hackney_am",
+      "mode": "koth",
+      "matchID": "488434039351744377",
+      "duration": 400000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "win",
+      "winningTeam": "allies",
+      "gameBattle": false,
+      "team1Score": 250,
+      "team2Score": 31,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 0,
+        "awards": {},
+        "nemesis": "Shaqzilla",
+        "mostKilled": "Crazy",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "clantag": "^31B^7",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 3,
+        "medalXp": 290,
+        "matchXp": 871,
+        "averageSpeedDuringMatch": 157.75821,
+        "scoreXp": 375,
+        "accuracy": 0.21951219512195122,
+        "wallBangs": 0,
+        "shotsLanded": 9,
+        "score": 825,
+        "totalXp": 1536,
+        "objectiveExecution": 1,
+        "headshots": 1,
+        "assists": 1,
+        "rank": 0,
+        "scorePerMinute": 275,
+        "distanceTraveled": 771.1453,
+        "deaths": 2,
+        "kdRatio": 1.5,
+        "shotsMissed": 32,
+        "timePlayed": 180,
+        "executions": 1,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 45,
+        "nearmisses": 14,
+        "percentTimeMoving": 89.655174,
+        "miscXp": 0,
+        "longestStreak": 3,
+        "damageDone": 312,
+        "shotsFired": 41,
+        "damageTaken": 200
+      },
+      "weaponStats": {
+        "iw8_sm_mpapa5": {
+          "hits": 9,
+          "kills": 2,
+          "headshots": 1,
+          "loadoutIndex": 0,
+          "shots": 41,
+          "startingWeaponXp": 0,
+          "deaths": 2,
+          "xpEarned": 78
+        },
+        "none": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599325016,
+      "utcEndSeconds": 1599325685,
+      "map": "mp_runner",
+      "mode": "koth",
+      "matchID": "11954953116425347203",
+      "duration": 669000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "win",
+      "winningTeam": "allies",
+      "gameBattle": false,
+      "team1Score": 250,
+      "team2Score": 177,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 3,
+        "awards": {},
+        "nemesis": "KrYpT_",
+        "mostKilled": "shiftoneshot",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "clantag": "^31B^7",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 39,
+        "medalXp": 2505,
+        "matchXp": 3735,
+        "averageSpeedDuringMatch": 187.06133,
+        "scoreXp": 4425,
+        "accuracy": 0.2653673163418291,
+        "wallBangs": 0,
+        "shotsLanded": 177,
+        "objectiveMedalModeXDefendScore": 1,
+        "objectiveMedalModeXAssaultScore": 6,
+        "score": 5325,
+        "totalXp": 10665,
+        "headshots": 7,
+        "assists": 12,
+        "objectiveMedalModeHpSecureScore": 2,
+        "rank": 3,
+        "scorePerMinute": 445.60669456066944,
+        "distanceTraveled": 9037.659,
+        "deaths": 20,
+        "kdRatio": 1.95,
+        "shotsMissed": 490,
+        "timePlayed": 717,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 45,
+        "nearmisses": 333,
+        "percentTimeMoving": 98.942604,
+        "miscXp": 0,
+        "longestStreak": 5,
+        "damageDone": 4511,
+        "shotsFired": 667,
+        "damageTaken": 3121
+      },
+      "weaponStats": {
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 177,
+          "kills": 38,
+          "headshots": 7,
+          "loadoutIndex": 0,
+          "shots": 667,
+          "startingWeaponXp": 0,
+          "deaths": 19,
+          "xpEarned": 0
+        },
+        "iw8_knife": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 1,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599324219,
+      "utcEndSeconds": 1599324888,
+      "map": "mp_cave_am",
+      "mode": "koth",
+      "matchID": "6583310356794621601",
+      "duration": 669000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "win",
+      "winningTeam": "allies",
+      "gameBattle": false,
+      "team1Score": 250,
+      "team2Score": 193,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 1,
+        "awards": {},
+        "nemesis": "ImMehdi",
+        "mostKilled": "Imperator",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "clantag": "^31B^7",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 11,
+        "medalXp": 1075,
+        "matchXp": 2030,
+        "averageSpeedDuringMatch": 160.28337,
+        "scoreXp": 1450,
+        "accuracy": 0.2264808362369338,
+        "wallBangs": 0,
+        "shotsLanded": 65,
+        "objectiveMedalModeXDefendScore": 2,
+        "score": 1880,
+        "totalXp": 4555,
+        "headshots": 1,
+        "assists": 6,
+        "objectiveMedalModeHpSecureScore": 2,
+        "rank": 1,
+        "scorePerMinute": 291.47286821705427,
+        "distanceTraveled": 8503.189,
+        "deaths": 14,
+        "objectiveDestroyedEquipment": 1,
+        "kdRatio": 0.7857142857142857,
+        "shotsMissed": 222,
+        "timePlayed": 387,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 13,
+        "nearmisses": 151,
+        "percentTimeMoving": 89.7436,
+        "miscXp": 0,
+        "longestStreak": 3,
+        "damageDone": 1638,
+        "shotsFired": 287,
+        "damageTaken": 1527
+      },
+      "weaponStats": {
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 65,
+          "kills": 10,
+          "headshots": 1,
+          "loadoutIndex": 0,
+          "shots": 287,
+          "startingWeaponXp": 0,
+          "deaths": 14,
+          "xpEarned": 0
+        },
+        "iw8_knife": {
+          "hits": 0,
+          "kills": 1,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599243765,
+      "utcEndSeconds": 1599244158,
+      "map": "mp_petrograd",
+      "mode": "koth",
+      "matchID": "9475850545898214573",
+      "duration": 393000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "win",
+      "winningTeam": "allies",
+      "gameBattle": false,
+      "team1Score": 250,
+      "team2Score": 74,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 1,
+        "awards": {},
+        "nemesis": "JZ",
+        "mostKilled": "FLUKE",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "clantag": "^31B^7",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          },
+          {
+            "primaryWeapon": {
+              "name": "iw8_ar_mike4",
+              "label": "M4A1",
+              "imageLoot": "ui_loot_weapon_ar_mike4",
+              "imageIcon": "icon_cac_weapon_ar_mike4",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "fmj",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "reflexmini3",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip03",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "barcust2",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_warhead",
+                "label": "Amped",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_warhead_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 12,
+        "medalXp": 1715,
+        "matchXp": 2193,
+        "averageSpeedDuringMatch": 194.14995,
+        "scoreXp": 1375,
+        "accuracy": 0.2,
+        "wallBangs": 1,
+        "shotsLanded": 57,
+        "objectiveMedalModeXDefendScore": 3,
+        "objectiveMedalModeXAssaultScore": 1,
+        "score": 2420,
+        "totalXp": 5283,
+        "headshots": 0,
+        "assists": 3,
+        "objectiveMedalModeHpSecureScore": 2,
+        "rank": 1,
+        "scorePerMinute": 338.4615384615385,
+        "distanceTraveled": 4784.283,
+        "deaths": 11,
+        "kdRatio": 1.0909090909090908,
+        "shotsMissed": 228,
+        "timePlayed": 429,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 67,
+        "nearmisses": 162,
+        "percentTimeMoving": 96.64948,
+        "miscXp": 0,
+        "longestStreak": 5,
+        "damageDone": 1556,
+        "shotsFired": 285,
+        "damageTaken": 1521
+      },
+      "weaponStats": {
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 57,
+          "kills": 11,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 285,
+          "startingWeaponXp": 0,
+          "deaths": 11,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599243176,
+      "utcEndSeconds": 1599243651,
+      "map": "mp_runner",
+      "mode": "koth",
+      "matchID": "1346805086840062795",
+      "duration": 475000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "allies",
+      "gameBattle": false,
+      "team1Score": 250,
+      "team2Score": 52,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "axis",
+        "rank": 1,
+        "awards": {},
+        "nemesis": "Mr Ping",
+        "mostKilled": "xI Stephen v2",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "clantag": "^31B^7",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 18,
+        "medalXp": 2545,
+        "matchXp": 1770,
+        "averageSpeedDuringMatch": 239.63531,
+        "scoreXp": 2100,
+        "accuracy": 0.2216624685138539,
+        "wallBangs": 0,
+        "shotsLanded": 88,
+        "objectiveMedalModeXDefendScore": 1,
+        "objectiveMedalModeXAssaultScore": 8,
+        "score": 3000,
+        "totalXp": 6415,
+        "headshots": 3,
+        "assists": 6,
+        "objectiveMedalModeHpSecureScore": 4,
+        "rank": 1,
+        "scorePerMinute": 340.9090909090909,
+        "distanceTraveled": 3766.521,
+        "deaths": 27,
+        "kdRatio": 0.6666666666666666,
+        "shotsMissed": 309,
+        "timePlayed": 528,
+        "executions": 0,
+        "suicides": 1,
+        "seasonRank": 0,
+        "objectiveKothInObj": 5,
+        "nearmisses": 200,
+        "percentTimeMoving": 99.14712,
+        "miscXp": 0,
+        "longestStreak": 4,
+        "damageDone": 2343,
+        "shotsFired": 397,
+        "damageTaken": 2881
+      },
+      "weaponStats": {
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 88,
+          "kills": 16,
+          "headshots": 3,
+          "loadoutIndex": 0,
+          "shots": 397,
+          "startingWeaponXp": 0,
+          "deaths": 25,
+          "xpEarned": 0
+        },
+        "iw8_knife": {
+          "hits": 0,
+          "kills": 1,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 1,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599242388,
+      "utcEndSeconds": 1599243041,
+      "map": "mp_hackney_am",
+      "mode": "koth",
+      "matchID": "10700231948550622539",
+      "duration": 653000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "axis",
+      "gameBattle": false,
+      "team1Score": 218,
+      "team2Score": 250,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 1,
+        "awards": {},
+        "nemesis": "Kenny",
+        "mostKilled": "Big Pekka",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "clantag": "^31B^7",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 20,
+        "medalXp": 1680,
+        "matchXp": 2426,
+        "averageSpeedDuringMatch": 181.52356,
+        "scoreXp": 2150,
+        "accuracy": 0.2190082644628099,
+        "wallBangs": 0,
+        "shotsLanded": 106,
+        "objectiveMedalModeXAssaultScore": 1,
+        "objectiveMedalModeXDefendScore": 2,
+        "score": 3220,
+        "totalXp": 6256,
+        "headshots": 2,
+        "assists": 3,
+        "objectiveMedalModeHpSecureScore": 3,
+        "rank": 1,
+        "scorePerMinute": 276.79083094555875,
+        "distanceTraveled": 8906.2,
+        "deaths": 30,
+        "kdRatio": 0.6666666666666666,
+        "shotsMissed": 378,
+        "timePlayed": 698,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 62,
+        "nearmisses": 219,
+        "percentTimeMoving": 96.12403,
+        "miscXp": 0,
+        "longestStreak": 4,
+        "damageDone": 2871,
+        "shotsFired": 484,
+        "damageTaken": 3330
+      },
+      "weaponStats": {
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 106,
+          "kills": 20,
+          "headshots": 2,
+          "loadoutIndex": 0,
+          "shots": 484,
+          "startingWeaponXp": 0,
+          "deaths": 29,
+          "xpEarned": 0
+        },
+        "iw8_knife": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 1,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599241477,
+      "utcEndSeconds": 1599242253,
+      "map": "mp_cave_am",
+      "mode": "koth",
+      "matchID": "7821941548622258011",
+      "duration": 776000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "axis",
+      "gameBattle": false,
+      "team1Score": 243,
+      "team2Score": 250,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 2,
+        "awards": {},
+        "nemesis": "Godshot",
+        "mostKilled": "Asdrubal ElBello",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "clantag": "^31B^7",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_ar_mike4",
+              "label": "M4A1",
+              "imageLoot": "ui_loot_weapon_ar_mike4",
+              "imageIcon": "icon_cac_weapon_ar_mike4",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "fmj",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "reflexmini3",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip03",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "barcust2",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_warhead",
+                "label": "Amped",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_warhead_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          },
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 28,
+        "medalXp": 4000,
+        "matchXp": 2887,
+        "averageSpeedDuringMatch": 165.54907,
+        "scoreXp": 3150,
+        "accuracy": 0.20130932896890344,
+        "wallBangs": 1,
+        "shotsLanded": 123,
+        "objectiveMedalModeXAssaultScore": 4,
+        "objectiveMedalModeXDefendScore": 8,
+        "score": 5835,
+        "totalXp": 10037,
+        "headshots": 6,
+        "assists": 7,
+        "objectiveMedalModeHpSecureScore": 6,
+        "rank": 2,
+        "scorePerMinute": 422.82608695652175,
+        "distanceTraveled": 4439.9673,
+        "deaths": 25,
+        "kdRatio": 1.12,
+        "shotsMissed": 488,
+        "timePlayed": 828,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 151,
+        "nearmisses": 336,
+        "percentTimeMoving": 89.309,
+        "miscXp": 0,
+        "longestStreak": 5,
+        "damageDone": 3409,
+        "shotsFired": 611,
+        "damageTaken": 3128
+      },
+      "weaponStats": {
+        "iw8_ar_mike4": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 1,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 1,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 88,
+          "kills": 21,
+          "headshots": 5,
+          "loadoutIndex": 1,
+          "shots": 424,
+          "startingWeaponXp": 0,
+          "deaths": 16,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1599240663,
+      "utcEndSeconds": 1599241337,
+      "map": "mp_spear",
+      "mode": "koth",
+      "matchID": "6055383188653073739",
+      "duration": 674000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "allies",
+      "gameBattle": false,
+      "team1Score": 250,
+      "team2Score": 213,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "axis",
+        "rank": 1,
+        "awards": {},
+        "nemesis": "Aimszq",
+        "mostKilled": "DannY",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "clantag": "^31B^7",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 22,
+        "medalXp": 1500,
+        "matchXp": 1837,
+        "averageSpeedDuringMatch": 173.75409,
+        "scoreXp": 2325,
+        "accuracy": 0.1779816513761468,
+        "wallBangs": 1,
+        "shotsLanded": 97,
+        "objectiveMedalModeXDefendScore": 1,
+        "objectiveMedalModeXAssaultScore": 2,
+        "score": 3140,
+        "totalXp": 5662,
+        "headshots": 7,
+        "assists": 3,
+        "objectiveMedalModeHpSecureScore": 2,
+        "rank": 1,
+        "scorePerMinute": 363.7065637065637,
+        "distanceTraveled": 4825.1807,
+        "deaths": 15,
+        "kdRatio": 1.4666666666666666,
+        "shotsMissed": 448,
+        "timePlayed": 518,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 49,
+        "nearmisses": 282,
+        "percentTimeMoving": 98.7526,
+        "miscXp": 0,
+        "longestStreak": 4,
+        "damageDone": 2333,
+        "shotsFired": 545,
+        "damageTaken": 1998
+      },
+      "weaponStats": {
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 97,
+          "kills": 22,
+          "headshots": 7,
+          "loadoutIndex": 0,
+          "shots": 545,
+          "startingWeaponXp": 0,
+          "deaths": 14,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1592908029,
+      "utcEndSeconds": 1592908610,
+      "map": "mp_spear",
+      "mode": "koth",
+      "matchID": "11962278329747879764",
+      "duration": 581000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "win",
+      "winningTeam": "axis",
+      "gameBattle": false,
+      "team1Score": 112,
+      "team2Score": 250,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "axis",
+        "rank": 2,
+        "awards": {},
+        "nemesis": "Wheeler",
+        "mostKilled": "Frxnk1",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripvert",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_warhead",
+                "label": "Amped",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_warhead_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 21,
+        "medalXp": 2770,
+        "matchXp": 3245,
+        "averageSpeedDuringMatch": 171.45491,
+        "scoreXp": 2350,
+        "accuracy": 0.1880952380952381,
+        "wallBangs": 0,
+        "shotsLanded": 79,
+        "objectiveMedalModeXAssaultScore": 5,
+        "objectiveMedalModeXDefendScore": 3,
+        "score": 4080,
+        "totalXp": 8365,
+        "headshots": 3,
+        "assists": 6,
+        "objectiveMedalModeHpSecureScore": 6,
+        "rank": 2,
+        "scorePerMinute": 386.7298578199052,
+        "distanceTraveled": 13226.472,
+        "deaths": 19,
+        "kdRatio": 1.105263157894737,
+        "shotsMissed": 341,
+        "timePlayed": 633,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 73,
+        "nearmisses": 237,
+        "percentTimeMoving": 93.91304,
+        "miscXp": 0,
+        "longestStreak": 4,
+        "damageDone": 2422,
+        "shotsFired": 420,
+        "damageTaken": 2504
+      },
+      "weaponStats": {
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 79,
+          "kills": 20,
+          "headshots": 3,
+          "loadoutIndex": 0,
+          "shots": 420,
+          "startingWeaponXp": 0,
+          "deaths": 18,
+          "xpEarned": 0
+        },
+        "iw8_knife": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 1,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1592907493,
+      "utcEndSeconds": 1592907901,
+      "map": "mp_petrograd",
+      "mode": "koth",
+      "matchID": "2166110079220099187",
+      "duration": 408000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "allies",
+      "gameBattle": false,
+      "team1Score": 250,
+      "team2Score": 30,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "axis",
+        "rank": 1,
+        "awards": {},
+        "nemesis": "Morki",
+        "mostKilled": "imr172",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripvert",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_warhead",
+                "label": "Amped",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_warhead_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 8,
+        "medalXp": 995,
+        "matchXp": 960,
+        "averageSpeedDuringMatch": 207.94106,
+        "scoreXp": 1100,
+        "accuracy": 0.22310756972111553,
+        "wallBangs": 0,
+        "shotsLanded": 56,
+        "objectiveMedalModeXDefendScore": 1,
+        "objectiveMedalModeXAssaultScore": 2,
+        "score": 1340,
+        "totalXp": 3055,
+        "headshots": 0,
+        "assists": 5,
+        "objectiveMedalModeHpSecureScore": 1,
+        "rank": 1,
+        "scorePerMinute": 286.12099644128114,
+        "distanceTraveled": 1407.6803,
+        "deaths": 8,
+        "kdRatio": 1,
+        "shotsMissed": 195,
+        "timePlayed": 281,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 9,
+        "nearmisses": 150,
+        "percentTimeMoving": 100,
+        "miscXp": 0,
+        "longestStreak": 4,
+        "damageDone": 1358,
+        "shotsFired": 251,
+        "damageTaken": 1156
+      },
+      "weaponStats": {
+        "iw8_sm_mpapa5": {
+          "hits": 56,
+          "kills": 8,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 251,
+          "startingWeaponXp": 0,
+          "deaths": 8,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1586883559,
+      "utcEndSeconds": 1586884040,
+      "map": "mp_hackney_am",
+      "mode": "koth",
+      "matchID": "12727852691339727074",
+      "duration": 481000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "loss",
+      "winningTeam": "axis",
+      "gameBattle": false,
+      "team1Score": 110,
+      "team2Score": 250,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 1,
+        "awards": {},
+        "nemesis": "Confusion",
+        "mostKilled": "jbbw07",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripvert",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_warhead",
+                "label": "Amped",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_warhead_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          },
+          {
+            "primaryWeapon": {
+              "name": "iw8_ar_mike4",
+              "label": "M4A1",
+              "imageLoot": "ui_loot_weapon_ar_mike4",
+              "imageIcon": "icon_cac_weapon_ar_mike4",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "fmj",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "reflexmini3",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip03",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "barcust2",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_warhead",
+                "label": "Amped",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_warhead_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 18,
+        "medalXp": 1045,
+        "matchXp": 1792,
+        "averageSpeedDuringMatch": 174.04977,
+        "scoreXp": 2200,
+        "accuracy": 0.18336886993603413,
+        "shotsLanded": 86,
+        "objectiveMedalModeXAssaultScore": 1,
+        "score": 2270,
+        "totalXp": 5037,
+        "headshots": 4,
+        "assists": 8,
+        "objectiveMedalModeHpSecureScore": 1,
+        "rank": 1,
+        "scorePerMinute": 255.0561797752809,
+        "distanceTraveled": 4350.8086,
+        "deaths": 22,
+        "kdRatio": 0.8181818181818182,
+        "shotsMissed": 383,
+        "timePlayed": 534,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 12,
+        "percentTimeMoving": 95.789474,
+        "miscXp": 0,
+        "longestStreak": 3,
+        "damageDone": 2342,
+        "shotsFired": 469,
+        "damageTaken": 2626
+      },
+      "weaponStats": {
+        "iw8_ar_mike4": {
+          "hits": 62,
+          "kills": 15,
+          "headshots": 3,
+          "loadoutIndex": 1,
+          "shots": 341,
+          "startingWeaponXp": 0,
+          "deaths": 14,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 24,
+          "kills": 3,
+          "headshots": 1,
+          "loadoutIndex": 0,
+          "shots": 128,
+          "startingWeaponXp": 0,
+          "deaths": 8,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1585750063,
+      "utcEndSeconds": 1585750801,
+      "map": "mp_cave_am",
+      "mode": "koth",
+      "matchID": "7383752900812137206",
+      "duration": 738000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "win",
+      "winningTeam": "allies",
+      "gameBattle": false,
+      "team1Score": 250,
+      "team2Score": 247,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "allies",
+        "rank": 3,
+        "awards": {},
+        "nemesis": "Sonar",
+        "mostKilled": "Sonar",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_ar_mike4",
+              "label": "M4A1",
+              "imageLoot": "ui_loot_weapon_ar_mike4",
+              "imageIcon": "icon_cac_weapon_ar_mike4",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "fmj",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "reflexmini3",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip03",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "barcust2",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_warhead",
+                "label": "Amped",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_warhead_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 37,
+        "medalXp": 4625,
+        "matchXp": 4123,
+        "averageSpeedDuringMatch": 158.78432,
+        "scoreXp": 4075,
+        "accuracy": 0.21678321678321677,
+        "shotsLanded": 155,
+        "objectiveMedalModeXDefendScore": 7,
+        "objectiveMedalModeXAssaultScore": 7,
+        "score": 7165,
+        "totalXp": 12823,
+        "headshots": 11,
+        "assists": 8,
+        "objectiveMedalModeHpSecureScore": 7,
+        "rank": 3,
+        "scorePerMinute": 544.8669201520912,
+        "distanceTraveled": 9997.596,
+        "deaths": 25,
+        "kdRatio": 1.48,
+        "shotsMissed": 560,
+        "timePlayed": 789,
+        "executions": 0,
+        "suicides": 1,
+        "seasonRank": 0,
+        "objectiveKothInObj": 169,
+        "percentTimeMoving": 91.78082,
+        "miscXp": 0,
+        "longestStreak": 5,
+        "damageDone": 4211,
+        "shotsFired": 715,
+        "damageTaken": 3137
+      },
+      "weaponStats": {
+        "iw8_ar_mike4": {
+          "hits": 155,
+          "kills": 37,
+          "headshots": 11,
+          "loadoutIndex": 0,
+          "shots": 715,
+          "startingWeaponXp": 0,
+          "deaths": 23,
+          "xpEarned": 0
+        },
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_knife": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 1,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1585331098,
+      "utcEndSeconds": 1585331760,
+      "map": "mp_hideout",
+      "mode": "koth",
+      "matchID": "2254438126153446726",
+      "duration": 662000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "win",
+      "winningTeam": "axis",
+      "gameBattle": false,
+      "team1Score": 147,
+      "team2Score": 181,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "axis",
+        "rank": 155,
+        "awards": {},
+        "nemesis": "NvZ_Toxiiic",
+        "mostKilled": "NvZ_Toxiiic",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {
+          "uav": 1
+        },
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_ar_mike4",
+              "label": "M4A1",
+              "imageLoot": "ui_loot_weapon_ar_mike4",
+              "imageIcon": "icon_cac_weapon_ar_mike4",
+              "variant": "0",
+              "attachments": [
+                {
+                  "name": "barcust2",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip03",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "xmagslrg",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "silencer",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "reflexmini3",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_sn_hdromeo",
+              "label": "HDR",
+              "imageLoot": "ui_loot_weapon_sn_hdromeo",
+              "imageIcon": "icon_cac_weapon_sn_hdromeo",
+              "variant": "0",
+              "attachments": [
+                {
+                  "name": "thermalvz",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "silencer",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "xmagslrg",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fmj",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "stockh",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_covert_ops",
+                "label": "COVERT OPS",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_covert_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_munitions_2",
+                "label": "Overkill",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_munitions_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_huntmaster",
+                "label": "Tracker",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hunter_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_surveillance",
+                "label": "High Alert",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_highalert_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "uav",
+                "label": "UAV"
+              },
+              {
+                "name": "precision_airstrike",
+                "label": "Precision Airstrike"
+              },
+              {
+                "name": "hover_jet",
+                "label": "VTOL Jet"
+              }
+            ],
+            "tactical": {
+              "name": "equip_hb_sensor",
+              "label": "Heartbeat Sensor",
+              "image": "hud_icon_equipment_hb_sensor",
+              "imageLarge": "hud_icon_equipment_hb_sensor",
+              "progressionImage": "icon_equipment_hb_sensor"
+            },
+            "lethal": {
+              "name": "equip_c4",
+              "label": "C4",
+              "image": "hud_icon_equipment_c4",
+              "imageLarge": "icon_equipment_slot_c4",
+              "progressionImage": "icon_equipment_c4"
+            }
+          },
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "0",
+              "attachments": [
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip03",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "silencer",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "0",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_guerrilla",
+                "label": "Ghost",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_guerilla_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_extra_shrapnel",
+                "label": "Shrapnel",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_shrapnel_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_surveillance",
+                "label": "High Alert",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_highalert_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "uav",
+                "label": "UAV"
+              },
+              {
+                "name": "precision_airstrike",
+                "label": "Precision Airstrike"
+              },
+              {
+                "name": "hover_jet",
+                "label": "VTOL Jet"
+              }
+            ],
+            "tactical": {
+              "name": "equip_concussion",
+              "label": "Stun Grenade",
+              "image": "hud_icon_equipment_stun",
+              "imageLarge": "icon_equipment_slot_stun",
+              "progressionImage": "icon_equipment_stun"
+            },
+            "lethal": {
+              "name": "equip_c4",
+              "label": "C4",
+              "image": "hud_icon_equipment_c4",
+              "imageLarge": "icon_equipment_slot_c4",
+              "progressionImage": "icon_equipment_c4"
+            }
+          },
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "0",
+              "attachments": [
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip03",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "silencer",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "0",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_guerrilla",
+                "label": "Ghost",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_guerilla_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_extra_shrapnel",
+                "label": "Shrapnel",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_shrapnel_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_surveillance",
+                "label": "High Alert",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_highalert_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "uav",
+                "label": "UAV"
+              },
+              {
+                "name": "precision_airstrike",
+                "label": "Precision Airstrike"
+              },
+              {
+                "name": "hover_jet",
+                "label": "VTOL Jet"
+              }
+            ],
+            "tactical": {
+              "name": "equip_concussion",
+              "label": "Stun Grenade",
+              "image": "hud_icon_equipment_stun",
+              "imageLarge": "icon_equipment_slot_stun",
+              "progressionImage": "icon_equipment_stun"
+            },
+            "lethal": {
+              "name": "equip_frag",
+              "label": "Frag Grenade",
+              "image": "hud_icon_equipment_frag",
+              "imageLarge": "icon_equipment_slot_frag",
+              "progressionImage": "icon_equipment_frag"
+            }
+          },
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "0",
+              "attachments": [
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip03",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripang",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "silencer",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "0",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_guerrilla",
+                "label": "Ghost",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_guerilla_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_extra_shrapnel",
+                "label": "Shrapnel",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_shrapnel_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_scavenger_plus",
+                "label": "Scavenger",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_scavenger_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_surveillance",
+                "label": "High Alert",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_highalert_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "uav",
+                "label": "UAV"
+              },
+              {
+                "name": "precision_airstrike",
+                "label": "Precision Airstrike"
+              },
+              {
+                "name": "hover_jet",
+                "label": "VTOL Jet"
+              }
+            ],
+            "tactical": {
+              "name": "equip_concussion",
+              "label": "Stun Grenade",
+              "image": "hud_icon_equipment_stun",
+              "imageLarge": "icon_equipment_slot_stun",
+              "progressionImage": "icon_equipment_stun"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 28,
+        "medalXp": 2425,
+        "matchXp": 3690,
+        "averageSpeedDuringMatch": 188.70935,
+        "scoreXp": 3080,
+        "accuracy": 0.20270270270270271,
+        "shotsLanded": 105,
+        "objectiveMedalModeXDefendScore": 5,
+        "score": 4670,
+        "totalXp": 9195,
+        "headshots": 2,
+        "assists": 4,
+        "objectiveMedalModeHpSecureScore": 4,
+        "rank": 54,
+        "scorePerMinute": 393.53932584269666,
+        "distanceTraveled": 4239.6367,
+        "deaths": 29,
+        "kdRatio": 0.9655172413793104,
+        "shotsMissed": 413,
+        "timePlayed": 712,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 100,
+        "objectiveKothInObj": 94,
+        "percentTimeMoving": 92.507645,
+        "miscXp": 0,
+        "objectiveUavAssist": 8,
+        "longestStreak": 4,
+        "damageDone": 3466,
+        "shotsFired": 518,
+        "damageTaken": 3490
+      },
+      "weaponStats": {
+        "c4_mp_p": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 1,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_ar_mike4": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 0,
+          "shots": 0,
+          "startingWeaponXp": 113200,
+          "deaths": 1,
+          "xpEarned": 0
+        },
+        "semtex_mp": {
+          "hits": 0,
+          "kills": 0,
+          "headshots": 0,
+          "loadoutIndex": 3,
+          "shots": 0,
+          "startingWeaponXp": 0,
+          "deaths": 0,
+          "xpEarned": 0
+        },
+        "iw8_sm_mpapa5": {
+          "hits": 6,
+          "kills": 2,
+          "headshots": 0,
+          "loadoutIndex": 2,
+          "shots": 29,
+          "startingWeaponXp": 77500,
+          "deaths": 3,
+          "xpEarned": 100
+        },
+        "iw8_knife": {
+          "hits": 0,
+          "kills": 4,
+          "headshots": 0,
+          "loadoutIndex": 3,
+          "shots": 0,
+          "startingWeaponXp": 3700,
+          "deaths": 3,
+          "xpEarned": 400
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    },
+    {
+      "utcStartSeconds": 1585075253,
+      "utcEndSeconds": 1585075863,
+      "map": "mp_petrograd",
+      "mode": "koth",
+      "matchID": "14338345411595055163",
+      "duration": 610000,
+      "playlistName": null,
+      "version": 1,
+      "gameType": "mp",
+      "result": "win",
+      "winningTeam": "axis",
+      "gameBattle": false,
+      "team1Score": 171,
+      "team2Score": 250,
+      "isPresentAtEnd": true,
+      "player": {
+        "team": "axis",
+        "rank": 2,
+        "awards": {},
+        "nemesis": "Isaaq__786",
+        "mostKilled": "ZenQueZ",
+        "username": "MBP",
+        "uno": "8297185697083749311",
+        "platform": "psn",
+        "killstreakUsage": {},
+        "loadout": [
+          {
+            "primaryWeapon": {
+              "name": "iw8_sm_mpapa5",
+              "label": "MP5",
+              "imageLoot": "ui_loot_weapon_sm_mpapa5",
+              "imageIcon": "icon_cac_weapon_sm_mpapa5",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "stockno",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "pistolgrip02",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "fastreload",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "calcust",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "gripvert",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "secondaryWeapon": {
+              "name": "iw8_knife",
+              "label": "Combat Knife",
+              "imageLoot": "ui_loot_weapon_me_soscar",
+              "imageIcon": "icon_cac_weapon_me_soscar_knife",
+              "variant": "-1",
+              "attachments": [
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                },
+                {
+                  "name": "none",
+                  "label": null,
+                  "image": null,
+                  "category": null
+                }
+              ]
+            },
+            "perks": [
+              {
+                "name": "specialty_hustle",
+                "label": "Double Time",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_hustle_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_strategist",
+                "label": null,
+                "image": null,
+                "imageMainUi": null,
+                "imageProgression": null
+              },
+              {
+                "name": "specialty_warhead",
+                "label": "Amped",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_warhead_ui",
+                "imageProgression": ""
+              }
+            ],
+            "extraPerks": [
+              {
+                "name": "specialty_tune_up",
+                "label": "Tune Up",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_tuneup_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_tac_resist",
+                "label": "Battle Hardened",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_battlehardened_ui",
+                "imageProgression": ""
+              },
+              {
+                "name": "specialty_eod",
+                "label": "E.O.D.",
+                "image": null,
+                "imageMainUi": "icon_perk_slot_eod_ui",
+                "imageProgression": ""
+              }
+            ],
+            "killstreaks": [
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              },
+              {
+                "name": "none",
+                "label": null
+              }
+            ],
+            "tactical": {
+              "name": "equip_smoke",
+              "label": "Smoke Grenade",
+              "image": "hud_icon_equipment_smoke",
+              "imageLarge": "icon_equipment_slot_smoke",
+              "progressionImage": "icon_equipment_smoke"
+            },
+            "lethal": {
+              "name": "equip_semtex",
+              "label": "Semtex",
+              "image": "hud_icon_equipment_semtex",
+              "imageLarge": "icon_equipment_slot_semtex",
+              "progressionImage": "icon_equipment_semtex"
+            }
+          }
+        ]
+      },
+      "playerStats": {
+        "kills": 21,
+        "medalXp": 2470,
+        "matchXp": 3403,
+        "averageSpeedDuringMatch": 200.62549,
+        "scoreXp": 2525,
+        "accuracy": 0.21029082774049218,
+        "shotsLanded": 94,
+        "objectiveMedalModeXAssaultScore": 3,
+        "objectiveMedalModeXDefendScore": 7,
+        "score": 4455,
+        "totalXp": 8398,
+        "headshots": 2,
+        "assists": 9,
+        "objectiveMedalModeHpSecureScore": 3,
+        "rank": 2,
+        "scorePerMinute": 404.3872919818457,
+        "distanceTraveled": 9162.464,
+        "deaths": 20,
+        "objectiveDestroyedEquipment": 1,
+        "kdRatio": 1.05,
+        "shotsMissed": 353,
+        "timePlayed": 661,
+        "executions": 0,
+        "suicides": 0,
+        "seasonRank": 0,
+        "objectiveKothInObj": 133,
+        "percentTimeMoving": 97.17608,
+        "miscXp": 0,
+        "longestStreak": 4,
+        "damageDone": 2641,
+        "shotsFired": 447,
+        "damageTaken": 2664
+      },
+      "weaponStats": {
+        "iw8_sm_mpapa5": {
+          "hits": 94,
+          "kills": 20,
+          "headshots": 2,
+          "loadoutIndex": 0,
+          "shots": 447,
+          "startingWeaponXp": 0,
+          "deaths": 20,
+          "xpEarned": 0
+        }
+      },
+      "allPlayers": null,
+      "arena": false,
+      "privateMatch": false
+    }
+  ]
+}
